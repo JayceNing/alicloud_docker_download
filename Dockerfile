@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/argoexec:v2.12.9-license-compliance
+FROM gcr.io/kfserving/sklearnserver:v0.5.1
 

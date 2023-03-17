@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/broker/filter@sha256:ad578e71aad9c040087dd621fddd73f70ede4d03ae5425c79e8995d06ebb8aca
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/ping/adapter@sha256:c7272752928f6eeb9a66cf47c00b2d295ffb8517f2033dbbc8a5f461f6adafc2

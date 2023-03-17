@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/ping/jobrunner@sha256:b47877189b1e0f23c2617875574b16505251ae45ea091969332266621af99af8
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/apiserver_receive_adapter@sha256:717e08da76235229c5664240351ece8c70767768437c0a6d498210cdcc182f14
 

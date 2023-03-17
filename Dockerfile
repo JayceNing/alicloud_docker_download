@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/busybox
+FROM gcr.io/ml-pipeline/argoexec:v2.12.9-license-compliance
 

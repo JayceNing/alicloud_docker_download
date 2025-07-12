@@ -1,2 +1,2 @@
-FROM gcr.io/kfserving/sklearnserver:v0.5.1
+FROM shingarey/foundationpose_custom_cuda121:latest
 

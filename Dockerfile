@@ -1,2 +1,1 @@
-FROM shingarey/foundationpose_custom_cuda121:latest
-
+FROM nvcr.io/nvidia/isaac-sim:4.5.0
